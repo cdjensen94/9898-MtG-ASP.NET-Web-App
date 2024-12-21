@@ -1,0 +1,8 @@
+﻿@page
+@model chaosScryfallRegexGeneratorASP.NET.Views.Home.feedbackModel
+@{
+}
+<form method="post" asp-controller="Home" asp-action="SubmitFeedback" id="feedback-form">
+    <textarea id="feedback" name="feedback" rows="4" placeholder="Your feedback"></textarea>
+    <button type="submit">Submit Feedback</button>
+</form>

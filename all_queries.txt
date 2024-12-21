@@ -1,0 +1,239 @@
+c
+r
+t
+set
+block
+tou
+pow
+loy
+cmc
+c r
+c t
+c set
+c block
+c tou
+c pow
+c loy
+c cmc
+r t
+r set
+r block
+r tou
+r pow
+r loy
+r cmc
+t set
+t block
+t tou
+t pow
+t loy
+t cmc
+set tou
+set pow
+set loy
+set cmc
+block tou
+block pow
+block loy
+block cmc
+tou pow
+tou cmc
+pow cmc
+loy cmc
+c r t
+c r set
+c r block
+c r tou
+c r pow
+c r loy
+c r cmc
+c t set
+c t block
+c t tou
+c t pow
+c t loy
+c t cmc
+c set tou
+c set pow
+c set loy
+c set cmc
+c block tou
+c block pow
+c block loy
+c block cmc
+c tou pow
+c tou cmc
+c pow cmc
+c loy cmc
+r t set
+r t block
+r t tou
+r t pow
+r t loy
+r t cmc
+r set tou
+r set pow
+r set loy
+r set cmc
+r block tou
+r block pow
+r block loy
+r block cmc
+r tou pow
+r tou cmc
+r pow cmc
+r loy cmc
+t set tou
+t set pow
+t set loy
+t set cmc
+t block tou
+t block pow
+t block loy
+t block cmc
+t tou pow
+t tou cmc
+t pow cmc
+t loy cmc
+set tou pow
+set tou cmc
+set pow cmc
+set loy cmc
+block tou pow
+block tou cmc
+block pow cmc
+block loy cmc
+tou pow cmc
+c r t set
+c r t block
+c r t tou
+c r t pow
+c r t loy
+c r t cmc
+c r set tou
+c r set pow
+c r set loy
+c r set cmc
+c r block tou
+c r block pow
+c r block loy
+c r block cmc
+c r tou pow
+c r tou cmc
+c r pow cmc
+c r loy cmc
+c t set tou
+c t set pow
+c t set loy
+c t set cmc
+c t block tou
+c t block pow
+c t block loy
+c t block cmc
+c t tou pow
+c t tou cmc
+c t pow cmc
+c t loy cmc
+c set tou pow
+c set tou cmc
+c set pow cmc
+c set loy cmc
+c block tou pow
+c block tou cmc
+c block pow cmc
+c block loy cmc
+c tou pow cmc
+r t set tou
+r t set pow
+r t set loy
+r t set cmc
+r t block tou
+r t block pow
+r t block loy
+r t block cmc
+r t tou pow
+r t tou cmc
+r t pow cmc
+r t loy cmc
+r set tou pow
+r set tou cmc
+r set pow cmc
+r set loy cmc
+r block tou pow
+r block tou cmc
+r block pow cmc
+r block loy cmc
+r tou pow cmc
+t set tou pow
+t set tou cmc
+t set pow cmc
+t set loy cmc
+t block tou pow
+t block tou cmc
+t block pow cmc
+t block loy cmc
+t tou pow cmc
+set tou pow cmc
+block tou pow cmc
+c r t set tou
+c r t set pow
+c r t set loy
+c r t set cmc
+c r t block tou
+c r t block pow
+c r t block loy
+c r t block cmc
+c r t tou pow
+c r t tou cmc
+c r t pow cmc
+c r t loy cmc
+c r set tou pow
+c r set tou cmc
+c r set pow cmc
+c r set loy cmc
+c r block tou pow
+c r block tou cmc
+c r block pow cmc
+c r block loy cmc
+c r tou pow cmc
+c t set tou pow
+c t set tou cmc
+c t set pow cmc
+c t set loy cmc
+c t block tou pow
+c t block tou cmc
+c t block pow cmc
+c t block loy cmc
+c t tou pow cmc
+c set tou pow cmc
+c block tou pow cmc
+r t set tou pow
+r t set tou cmc
+r t set pow cmc
+r t set loy cmc
+r t block tou pow
+r t block tou cmc
+r t block pow cmc
+r t block loy cmc
+r t tou pow cmc
+r set tou pow cmc
+r block tou pow cmc
+t set tou pow cmc
+t block tou pow cmc
+c r t set tou pow
+c r t set tou cmc
+c r t set pow cmc
+c r t set loy cmc
+c r t block tou pow
+c r t block tou cmc
+c r t block pow cmc
+c r t block loy cmc
+c r t tou pow cmc
+c r set tou pow cmc
+c r block tou pow cmc
+c t set tou pow cmc
+c t block tou pow cmc
+r t set tou pow cmc
+r t block tou pow cmc
+c r t set tou pow cmc
+c r t block tou pow cmc

@@ -1,0 +1,100 @@
+﻿@{
+    ViewData["Title"] = "MTG Scryfall Regex";
+    <link rel="stylesheet" href="/css/styles.css" />
+}
+
+<div class="container">
+    <header>
+        <h1>@ViewData["Title"]</h1>
+    </header>
+
+    <section>
+        <p>2024 © @DateTime.Now.Year - 9898-MTG</p>
+    </section>
+
+    <nav>
+        <ul>
+            <li><a asp-controller="Home" asp-action="Search">Search</a></li>
+            <li><a asp-controller="Home" asp-action="Results">Results</a></li>
+            <li><a asp-controller="Home" asp-action="Summary">Summary</a></li>
+            <li><a asp-controller="Home" asp-action="Feedback">Feedback</a></li>
+            <li><a asp-controller="Home" asp-action="Suggestions">Suggestions</a></li>
+        </ul>
+    </nav>
+
+    <form id="search-form" asp-controller="Home" asp-action="Search" method="post">
+        <input type="text" name="query" id="search-input" placeholder="Enter search query" />
+        <button type="submit">Search</button>
+    </form>
+    <button id="clear-button" type="button">Clear Results</button>
+
+    <div id="randomQueryButton" class="container">
+        <button id="generate-button" type="button">Generate Random Query</button>
+    </div>
+    <div id="chaosBoosterPackButton" class="container">
+        <button id="chaos-button" type="button">Generate Chaos Booster Pack</button>
+    </div>
+
+    <div id="regex-display-container">
+        <label for="regex-display">Generated Regex:</label>
+        <input type="text" id="regex-display" readonly />
+    </div>
+
+    <div id="timer-container" class="timer-container"></div>
+    <label for="timer">Next Search In:</label>
+    <span id="timer">30:00</span>
+
+    <!-- Log -->
+    <textarea id="log" placeholder="Log"></textarea>
+
+    <!-- Results List -->
+    <textarea id="results-list" placeholder="Results List" readonly></textarea>
+
+    <!-- Results -->
+    <div id="results"></div>
+
+    <!-- Summary -->
+    <textarea id="summary" placeholder="Summary" readonly></textarea>
+
+    <!-- Feedback -->
+
+    <h2>Submit Feedback</h2>
+
+    <!-- Display success message -->
+    @if (TempData["FeedbackSuccess"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["FeedbackSuccess"]
+        </div>
+    }
+
+    <form method="post" asp-controller="Home" asp-action="SubmitFeedback" id="feedback-form">
+        <label for="feedback">Your Feedback:</label>
+        <textarea id="feedback" name="feedback" rows="4" cols="50" placeholder="Enter your feedback"></textarea>
+        <button type="submit">Submit Feedback</button>
+    </form>
+
+    <!-- Suggestions -->
+    <form id="suggest-form" asp-controller="Home" asp-action="Suggestions" method="post">
+        <label for="suggest">Your Suggestion:</label>
+        <textarea id="suggest" name="suggest" rows="4" cols="50" placeholder="Enter your suggestion here"></textarea>
+        <button type="submit">Submit Suggestion</button>
+    </form>
+
+    <footer>
+        <p>2024 © @DateTime.Now.Year - 9898-MTG</p>
+    </footer>
+</div>
+<script src="../js/timer.js"></script>
+<script src="../js/scryfallRegEx.js"></script>
+<script src="../js/chaosBoosterPack.js"></script>
+<script src="../js/log.js"></script>
+<script src="../js/results.js"></script>
+<script src="../js/summary.js"></script>
+<script src="../js/feedback.js"></script>
+<script src="../js/suggestions.js"></script>
+<script src="../js/generateRandomQuery.js"></script>
+<script src="../js/generateChaosBoosterPack.js"></script>
+<script src="../js/clearResults.js"></script>
+<script src="../js/autoRefresh.js"></script>
+

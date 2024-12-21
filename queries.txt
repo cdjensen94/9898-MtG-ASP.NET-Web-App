@@ -1,0 +1,511 @@
+c:wubr
+r:rare
+t:koth
+set:vow
+block:ody
+tou:13
+pow:3
+loy:8
+cmc:9
+c:wug r:common
+c:wubg t:goat
+c:g set:f17
+c:wubrg block:isd
+c:rwu tou:3
+c:g pow:6
+c:ru loy:8
+c:wbrg cmc:7
+r:common t:innistrad
+r:common set:f08
+r:rare block:soi
+r:rare tou:2
+r:rare pow:5
+r:mythic loy:4
+r:mythic cmc:2
+t:snow set:potj
+t:outside mutters spiral block:dbl
+t:zariel tou:12
+t:spy pow:11
+t:urza loy:6
+t:horsehead nebula cmc:2
+set:psnc block:rtr
+set:oc16 tou:1
+set:khm pow:11
+set:pss3 loy:5
+set:brr cmc:6
+block:ice tou:10
+block:zen pow:1
+block:htr loy:6
+block:rtr cmc:6
+tou:7 pow:7
+tou:6 loy:6
+tou:10 cmc:9
+pow:13 loy:6
+pow:13 cmc:3
+loy:2 cmc:2
+c:ru r:common t:minsc
+c:rw r:common set:pchk
+c:wrg r:rare block:por
+c:wub r:rare tou:6
+c:g r:rare pow:12
+c:rw r:rare loy:5
+c:gub r:common cmc:4
+c:gub t:freyalise set:f09
+c:rbu t:eldrazi block:lrw
+c:ru t:scientist tou:4
+c:w t:gith pow:6
+c:r t:angel loy:3
+c:wbrg t:antelope cmc:13
+c:rgb set:tdag block:otj
+c:rwu set:prw2 tou:1
+c:w set:ylci pow:10
+c:wub set:woe loy:4
+c:b set:9ed cmc:7
+c:wug block:y23 tou:6
+c:b block:ala pow:2
+c:gu block:y24 loy:4
+c:rw block:lrw cmc:0
+c:rbu tou:9 pow:5
+c:w tou:12 loy:7
+c:rwb tou:11 cmc:11
+c:rgu pow:9 loy:3
+c:wub pow:8 cmc:4
+c:ru loy:9 cmc:12
+r:uncommon t:ral set:pbng
+r:mythic t:hag block:bfz
+r:mythic t:swamp tou:5
+r:common t:survivor pow:6
+r:uncommon t:pincher loy:2
+r:common t:kindred cmc:2
+r:mythic set:taer block:inv
+r:common set:p11 tou:9
+r:rare set:tmoc pow:8
+r:mythic set:ph19 loy:7
+r:common set:tbot cmc:4
+r:uncommon block:jgp tou:5
+r:mythic block:tmp pow:1
+r:mythic block:akh loy:4
+r:uncommon block:otj cmc:8
+r:uncommon tou:13 pow:3
+r:rare tou:10 loy:4
+r:rare tou:2 cmc:1
+r:uncommon pow:2 loy:6
+r:rare pow:1 cmc:5
+r:rare loy:6 cmc:6
+t:role set:j14 block:inv
+t:basic set:macr tou:13
+t:tasha set:piko pow:6
+t:wolf set:cp1 loy:1
+t:fish set:ogw cmc:12
+t:assassin block:dbl tou:2
+t:atog block:kld pow:8
+t:lobster block:grn loy:10
+t:hero block:ktk cmc:11
+t:ogre tou:3 pow:13
+t:mars tou:6 loy:1
+t:primarch tou:3 cmc:10
+t:ikoria pow:4 loy:5
+t:deer pow:4 cmc:2
+t:camarid loy:5 cmc:2
+set:cmd block:por tou:10
+set:ddc block:ths pow:1
+set:f09 block:ths loy:8
+set:pcel block:ody cmc:0
+set:pm13 tou:7 pow:8
+set:lrw tou:3 loy:4
+set:pls tou:4 cmc:10
+set:pj21 pow:11 loy:1
+set:atq pow:6 cmc:9
+set:jud loy:5 cmc:7
+block:soi tou:10 pow:12
+block:rav tou:11 loy:10
+block:lea tou:3 cmc:0
+block:xln pow:9 loy:2
+block:kld pow:2 cmc:11
+block:ice loy:10 cmc:10
+tou:13 pow:13 loy:5
+tou:11 pow:1 cmc:9
+tou:13 loy:7 cmc:1
+pow:8 loy:7 cmc:10
+c:r r:mythic t:new earth set:t30a
+c:wurg r:mythic t:rat block:otj
+c:rbu r:common t:ir tou:11
+c:rwb r:uncommon t:echoir pow:13
+c:ubrg r:mythic t:chicken loy:2
+c:ugr r:rare t:weasel cmc:5
+c:rwu r:mythic set:ymkm block:dbl
+c:rgu r:common set:w16 tou:6
+c:r r:common set:psom pow:11
+c:wub r:common set:svow loy:7
+c:ru r:common set:rna cmc:5
+c:rw r:mythic block:bfz tou:10
+c:r r:rare block:y25 pow:7
+c:ugr r:rare block:som loy:10
+c:ru r:mythic block:akh cmc:5
+c:bu r:uncommon tou:5 pow:13
+c:ru r:mythic tou:12 loy:7
+c:wubrg r:common tou:2 cmc:11
+c:wbrg r:uncommon pow:9 loy:2
+c:rgu r:mythic pow:13 cmc:3
+c:wug r:uncommon loy:3 cmc:12
+c:rgb t:trenzalore set:psus block:ons
+c:gu t:worm set:f12 tou:4
+c:rw t:foldaria set:pmid pow:3
+c:rw t:otter set:7ed loy:10
+c:b t:etiquette set:sta cmc:2
+c:bw t:troll block:tmp tou:10
+c:r t:merfolk block:zen pow:12
+c:bu t:trap block:lea loy:8
+c:ru t:kylem block:som cmc:3
+c:gub t:darillium tou:1 pow:12
+c:rwb t:demigod tou:8 loy:3
+c:wubr t:world tou:10 cmc:2
+c:rgb t:otter pow:11 loy:9
+c:g t:doctor pow:8 cmc:2
+c:br t:nixilis loy:7 cmc:11
+c:rwb set:tmh2 block:xln tou:4
+c:bu set:ptmp block:lea pow:6
+c:wu set:pjou block:rav loy:6
+c:ugr set:cei block:cmd cmc:13
+c:bw set:p30h tou:6 pow:1
+c:rgu set:tc16 tou:6 loy:8
+c:r set:eve tou:2 cmc:11
+c:rw set:da1 pow:3 loy:1
+c:w set:olgc pow:6 cmc:13
+c:bw set:pm10 loy:3 cmc:4
+c:wug block:ths tou:10 pow:10
+c:ubrg block:parl tou:7 loy:2
+c:rwb block:inv tou:10 cmc:3
+c:wug block:akh pow:11 loy:4
+c:bw block:y22 pow:13 cmc:2
+c:wubr block:mmq loy:7 cmc:2
+c:bw tou:7 pow:6 loy:9
+c:wubrg tou:6 pow:13 cmc:12
+c:g tou:5 loy:1 cmc:3
+c:rwb pow:1 loy:2 cmc:1
+r:uncommon t:ergamon set:pm13 block:mrd
+r:common t:aetherborn set:snc tou:10
+r:common t:power-plant set:gn3 pow:3
+r:rare t:elspeth set:tima loy:6
+r:uncommon t:calix set:g11 cmc:0
+r:mythic t:ogre block:y24 tou:12
+r:rare t:kasmina block:ody pow:4
+r:common t:equipment block:cns loy:3
+r:common t:serra’s realm block:shm cmc:11
+r:common t:teferi tou:6 pow:10
+r:uncommon t:tasha tou:10 loy:3
+r:mythic t:tezzeret tou:10 cmc:3
+r:rare t:locus pow:10 loy:3
+r:mythic t:squirrel pow:5 cmc:11
+r:rare t:hellion loy:9 cmc:9
+r:mythic set:da1 block:rav tou:9
+r:uncommon set:pclb block:ice pow:10
+r:mythic set:bchr block:por loy:6
+r:uncommon set:mbs block:tsp cmc:5
+r:rare set:tc14 tou:6 pow:11
+r:common set:pmat tou:9 loy:1
+r:common set:wc02 tou:10 cmc:0
+r:uncommon set:t2xm pow:8 loy:4
+r:mythic set:tdka pow:12 cmc:3
+r:common set:ugl loy:10 cmc:10
+r:mythic block:rav tou:7 pow:11
+r:mythic block:ice tou:2 loy:1
+r:rare block:mir tou:9 cmc:0
+r:common block:dbl pow:8 loy:9
+r:common block:chk pow:7 cmc:3
+r:uncommon block:kld loy:9 cmc:0
+r:mythic tou:13 pow:6 loy:10
+r:uncommon tou:2 pow:13 cmc:8
+r:rare tou:4 loy:5 cmc:2
+r:uncommon pow:7 loy:7 cmc:6
+t:attraction set:slu block:xln tou:6
+t:scout set:l13 block:mrd pow:1
+t:survivor set:pscg block:y24 loy:4
+t:shard set:pltc block:y25 cmc:9
+t:beaver set:pdmu tou:7 pow:6
+t:minion set:klr tou:9 loy:4
+t:reflection set:tdd2 tou:8 cmc:3
+t:varmint set:pmh2 pow:12 loy:9
+t:ellywick set:wc02 pow:6 cmc:3
+t:gamer set:td0 loy:4 cmc:3
+t:deer block:jgp tou:13 pow:10
+t:serpent block:mrd tou:9 loy:8
+t:grist block:tsp tou:2 cmc:8
+t:conspiracy block:ths pow:10 loy:2
+t:cyclops block:ths pow:5 cmc:11
+t:nightstalker block:mpr loy:1 cmc:11
+t:ral tou:1 pow:1 loy:4
+t:adventure tou:11 pow:7 cmc:4
+t:venser tou:6 loy:8 cmc:4
+t:hag pow:10 loy:7 cmc:13
+set:q07 block:tsp tou:1 pow:9
+set:pisd block:otj tou:10 loy:3
+set:pjas block:jgp tou:1 cmc:11
+set:ph17 block:xln pow:7 loy:2
+set:pw24 block:ice pow:9 cmc:0
+set:pfdn block:ons loy:8 cmc:3
+set:tthb tou:7 pow:11 loy:4
+set:pjse tou:8 pow:10 cmc:1
+set:purl tou:9 loy:9 cmc:9
+set:ptc pow:1 loy:2 cmc:8
+block:ody tou:10 pow:3 loy:8
+block:som tou:11 pow:8 cmc:9
+block:jgp tou:2 loy:1 cmc:13
+block:ala pow:13 loy:4 cmc:12
+tou:13 pow:6 loy:6 cmc:12
+c:rgb r:uncommon t:ir set:fdn block:soi
+c:wubrg r:mythic t:aura set:l15 tou:9
+c:rw r:rare t:estrid set:psom pow:8
+c:g r:common t:camel set:dmr loy:1
+c:b r:common t:wildfire set:pjas cmc:4
+c:u r:common t:treasure block:por tou:5
+c:rbu r:uncommon t:sponge block:shm pow:4
+c:wrg r:uncommon t:bird block:inv loy:2
+c:wubrg r:common t:unicorn block:otj cmc:11
+c:rgb r:mythic t:assembly-worker tou:13 pow:10
+c:wubrg r:mythic t:davriel tou:2 loy:8
+c:gub r:common t:elves tou:13 cmc:2
+c:ubrg r:rare t:lair pow:10 loy:7
+c:wbrg r:common t:whale pow:11 cmc:7
+c:b r:rare t:bird loy:1 cmc:5
+c:wu r:mythic set:ha6 block:isd tou:2
+c:u r:mythic set:leb block:otj pow:7
+c:wu r:mythic set:totp block:tmp loy:5
+c:ubrg r:common set:p03 block:otj cmc:2
+c:wubr r:rare set:tlcc tou:3 pow:5
+c:rw r:rare set:alci tou:5 loy:5
+c:wu r:common set:5dn tou:11 cmc:6
+c:br r:mythic set:plci pow:5 loy:1
+c:bw r:rare set:pznr pow:2 cmc:3
+c:ru r:common set:pgru loy:10 cmc:6
+c:g r:uncommon block:chk tou:5 pow:2
+c:ru r:common block:ktk tou:12 loy:9
+c:wubr r:rare block:por tou:11 cmc:10
+c:wubg r:common block:lrw pow:3 loy:10
+c:rwb r:uncommon block:ths pow:3 cmc:10
+c:wug r:common block:tmp loy:7 cmc:3
+c:g r:common tou:11 pow:12 loy:8
+c:ubrg r:uncommon tou:1 pow:4 cmc:11
+c:wrg r:uncommon tou:4 loy:2 cmc:13
+c:b r:mythic pow:4 loy:5 cmc:7
+c:rw t:sarkhan set:purl block:shm tou:2
+c:wubr t:kyneth set:teld block:bfz pow:8
+c:wbrg t:gargoyle set:f01 block:soi loy:3
+c:gu t:spellshaper set:bok block:y22 cmc:7
+c:gu t:xenagos set:4ed tou:5 pow:10
+c:w t:beholder set:jou tou:5 loy:2
+c:b t:kaito set:adsk tou:8 cmc:2
+c:r t:wildfire set:ltr pow:8 loy:6
+c:wubr t:treasure set:dds pow:12 cmc:12
+c:rbu t:balloon set:jvc loy:7 cmc:6
+c:ru t:drone block:ths tou:8 pow:2
+c:ubrg t:phoenix block:grn tou:11 loy:8
+c:wurg t:eye block:kld tou:12 cmc:0
+c:ru t:crab block:ons pow:12 loy:9
+c:wubrg t:saproling block:y25 pow:11 cmc:9
+c:wrg t:flagbearer block:inv loy:3 cmc:1
+c:rgb t:ir tou:3 pow:12 loy:7
+c:g t:possum tou:12 pow:8 cmc:11
+c:ugr t:ally tou:5 loy:9 cmc:11
+c:b t:horror pow:5 loy:6 cmc:6
+c:rgb set:l17 block:y23 tou:9 pow:5
+c:wubg set:pchk block:ala tou:7 loy:1
+c:wubrg set:tddk block:ody tou:5 cmc:7
+c:rwb set:pdgm block:som pow:2 loy:5
+c:b set:psoi block:soi pow:5 cmc:0
+c:gub set:piko block:zen loy:7 cmc:1
+c:rbu set:slp tou:5 pow:13 loy:5
+c:wubr set:tdgm tou:10 pow:2 cmc:11
+c:wug set:ana tou:4 loy:8 cmc:10
+c:wu set:rin pow:5 loy:4 cmc:12
+c:rw block:ktk tou:5 pow:2 loy:4
+c:wu block:inv tou:8 pow:13 cmc:13
+c:wubg block:jgp tou:3 loy:6 cmc:11
+c:wbrg block:por pow:11 loy:1 cmc:5
+c:b tou:8 pow:4 loy:4 cmc:12
+r:mythic t:wall set:otj block:grn tou:3
+r:rare t:worm set:pncc block:shm pow:9
+r:rare t:vehicle set:ss2 block:y22 loy:9
+r:common t:saheeli set:h17 block:soi cmc:0
+r:uncommon t:fractal set:otp tou:11 pow:10
+r:common t:dryad set:scd tou:13 loy:6
+r:uncommon t:phyrexian set:togw tou:3 cmc:12
+r:uncommon t:harpy set:tmkm pow:5 loy:6
+r:uncommon t:blood set:jud pow:2 cmc:1
+r:rare t:kraken set:takh loy:6 cmc:10
+r:mythic t:contraption block:tsp tou:9 pow:11
+r:mythic t:harpy block:cmd tou:5 loy:1
+r:rare t:specter block:parl tou:13 cmc:8
+r:rare t:dragon block:mpr pow:6 loy:5
+r:uncommon t:forest block:y25 pow:3 cmc:13
+r:common t:samut block:akh loy:10 cmc:7
+r:uncommon t:lesson tou:6 pow:13 loy:6
+r:common t:reveler tou:3 pow:11 cmc:7
+r:mythic t:outside mutters spiral tou:9 loy:7 cmc:0
+r:uncommon t:instant pow:3 loy:7 cmc:4
+r:mythic set:cmm block:htr tou:7 pow:1
+r:mythic set:ncc block:inv tou:5 loy:4
+r:common set:tc17 block:htr tou:9 cmc:1
+r:rare set:tclb block:ons pow:7 loy:4
+r:common set:ydmu block:xln pow:2 cmc:2
+r:mythic set:h17 block:dbl loy:6 cmc:0
+r:uncommon set:tm15 tou:11 pow:12 loy:5
+r:common set:tisd tou:6 pow:3 cmc:0
+r:rare set:tdka tou:3 loy:5 cmc:6
+r:uncommon set:p22 pow:8 loy:3 cmc:7
+r:mythic block:ths tou:8 pow:3 loy:10
+r:common block:por tou:6 pow:9 cmc:6
+r:uncommon block:dbl tou:9 loy:2 cmc:0
+r:rare block:inv pow:4 loy:2 cmc:9
+r:rare tou:12 pow:6 loy:7 cmc:7
+t:spellshaper set:tzen block:chk tou:5 pow:5
+t:volver set:prwk block:shm tou:5 loy:1
+t:scout set:ps16 block:shm tou:11 cmc:8
+t:dwarf set:dka block:kld pow:3 loy:2
+t:koth set:sis block:ala pow:8 cmc:7
+t:merfolk set:zne block:grn loy:3 cmc:2
+t:minsc set:c20 tou:2 pow:6 loy:3
+t:elves set:pz1 tou:3 pow:5 cmc:4
+t:avatar set:frf tou:13 loy:10 cmc:1
+t:lorwyn set:tm3c pow:11 loy:8 cmc:6
+t:weasel block:cmd tou:2 pow:1 loy:10
+t:chicken block:lea tou:1 pow:13 cmc:2
+t:bard block:bfz tou:10 loy:5 cmc:6
+t:aurochs block:xln pow:10 loy:3 cmc:4
+t:walrus tou:5 pow:4 loy:9 cmc:8
+set:tone block:soi tou:8 pow:2 loy:5
+set:hou block:chk tou:9 pow:13 cmc:11
+set:oc18 block:cmd tou:5 loy:1 cmc:13
+set:mul block:mmq pow:7 loy:3 cmc:12
+set:pxln tou:10 pow:9 loy:3 cmc:10
+block:htr tou:2 pow:11 loy:2 cmc:5
+c:wrg r:mythic t:reveler set:p30t block:ody tou:5
+c:u r:common t:angel set:4ed block:jgp pow:1
+c:rgb r:rare t:mountain set:ha3 block:rav loy:2
+c:wurg r:common t:harpy set:psdc block:zen cmc:2
+c:ru r:rare t:human set:mbro tou:6 pow:4
+c:wub r:rare t:tree set:tbot tou:2 loy:5
+c:wrg r:common t:swamp set:pmoa tou:7 cmc:9
+c:wbrg r:uncommon t:moon set:pcmp pow:3 loy:4
+c:rwb r:common t:nautilus set:ptsr pow:12 cmc:7
+c:bw r:rare t:blood set:pcmr loy:10 cmc:2
+c:bu r:rare t:zonian block:y22 tou:1 pow:8
+c:gu r:mythic t:inquisitor block:y25 tou:3 loy:3
+c:wubrg r:uncommon t:rogue block:cmd tou:8 cmc:13
+c:rw r:rare t:dakkon block:shm pow:4 loy:6
+c:wurg r:mythic t:teddy block:mmq pow:7 cmc:7
+c:wu r:uncommon t:scion block:kld loy:4 cmc:9
+c:w r:common t:saheeli tou:9 pow:5 loy:4
+c:wug r:uncommon t:tower tou:5 pow:2 cmc:5
+c:ugr r:rare t:garruk tou:10 loy:10 cmc:0
+c:rwb r:common t:fish pow:9 loy:9 cmc:0
+c:bu r:uncommon set:tdmc block:y22 tou:7 pow:2
+c:gu r:uncommon set:aone block:inv tou:5 loy:7
+c:wubg r:mythic set:tznr block:chk tou:3 cmc:4
+c:w r:common set:oc16 block:rav pow:8 loy:7
+c:wug r:common set:togw block:isd pow:7 cmc:10
+c:ru r:mythic set:pal03 block:ala loy:8 cmc:5
+c:wug r:uncommon set:dft tou:7 pow:8 loy:5
+c:g r:uncommon set:ktk tou:4 pow:9 cmc:6
+c:wrg r:uncommon set:ncc tou:5 loy:9 cmc:11
+c:ugr r:common set:w17 pow:1 loy:8 cmc:11
+c:ugr r:uncommon block:ala tou:12 pow:12 loy:6
+c:u r:mythic block:cns tou:13 pow:11 cmc:1
+c:bu r:uncommon block:ktk tou:1 loy:3 cmc:4
+c:rgb r:rare block:mpr pow:12 loy:1 cmc:8
+c:rgu r:uncommon tou:12 pow:6 loy:7 cmc:6
+c:u t:wraith set:v14 block:cmd tou:6 pow:10
+c:wurg t:carrier set:brc block:usg tou:9 loy:3
+c:rgb t:plane set:twoe block:shm tou:7 cmc:9
+c:u t:hero set:g07 block:rtr pow:8 loy:9
+c:g t:fox set:tddg block:y24 pow:1 cmc:8
+c:rwu t:pentavite set:thou block:tsp loy:9 cmc:8
+c:ru t:gnome set:pmps06 tou:1 pow:5 loy:4
+c:ru t:cave set:pw21 tou:8 pow:8 cmc:11
+c:rwu t:the dalek asylum set:tnec tou:2 loy:1 cmc:9
+c:wug t:shadowmoor set:pd3 pow:5 loy:2 cmc:13
+c:bw t:tetravite block:cmd tou:12 pow:4 loy:3
+c:wurg t:wildfire block:y22 tou:5 pow:10 cmc:9
+c:wubg t:proper block:cmd tou:2 loy:2 cmc:6
+c:wu t:ox block:usg pow:7 loy:9 cmc:4
+c:u t:darillium tou:5 pow:4 loy:8 cmc:1
+c:ru set:j20 block:otj tou:13 pow:1 loy:6
+c:ugr set:a25 block:y25 tou:10 pow:2 cmc:4
+c:rbu set:ptsr block:lea tou:6 loy:6 cmc:13
+c:ugr set:tcmm block:ktk pow:13 loy:10 cmc:9
+c:wu set:ima tou:4 pow:11 loy:2 cmc:10
+c:r block:parl tou:13 pow:4 loy:2 cmc:10
+r:rare t:hippogriff set:ptdmu block:parl tou:10 pow:8
+r:uncommon t:cave set:pj21 block:dbl tou:1 loy:9
+r:rare t:fox set:tm14 block:y25 tou:9 cmc:12
+r:rare t:vronos set:pdom block:isd pow:13 loy:9
+r:common t:angel set:hml block:y25 pow:7 cmc:2
+r:mythic t:regatha set:unh block:som loy:1 cmc:1
+r:mythic t:naga set:pw22 tou:12 pow:3 loy:1
+r:uncommon t:minion set:spg tou:11 pow:6 cmc:9
+r:uncommon t:elemental set:fbro tou:3 loy:7 cmc:6
+r:mythic t:davriel set:tala pow:1 loy:10 cmc:0
+r:uncommon t:killbot block:som tou:13 pow:8 loy:10
+r:common t:rogue block:bfz tou:4 pow:5 cmc:1
+r:rare t:nomad block:jgp tou:10 loy:3 cmc:8
+r:uncommon t:jared block:grn pow:12 loy:1 cmc:8
+r:uncommon t:xenagos tou:2 pow:11 loy:10 cmc:4
+r:rare set:hho block:kld tou:9 pow:12 loy:7
+r:uncommon set:j25 block:y25 tou:4 pow:9 cmc:4
+r:rare set:pip block:y24 tou:8 loy:10 cmc:2
+r:uncommon set:spg block:ice pow:8 loy:9 cmc:7
+r:common set:bot tou:9 pow:6 loy:6 cmc:8
+r:rare block:ody tou:2 pow:5 loy:6 cmc:10
+t:ninja set:j14 block:lea tou:5 pow:5 loy:2
+t:metathran set:psok block:y23 tou:6 pow:10 cmc:9
+t:shaman set:ph20 block:xln tou:12 loy:8 cmc:10
+t:scientist set:tmom block:otj pow:12 loy:8 cmc:12
+t:oyster set:fut tou:4 pow:13 loy:9 cmc:7
+t:grist block:mrd tou:3 pow:4 loy:4 cmc:2
+set:fbro block:cns tou:10 pow:6 loy:9 cmc:11
+c:rbu r:mythic t:pentavite set:psus block:tmp tou:8 pow:10
+c:wubr r:rare t:ship set:afc block:cmd tou:8 loy:8
+c:ubrg r:mythic t:custodes set:pisd block:lea tou:2 cmc:3
+c:rwb r:uncommon t:chef set:ps17 block:tsp pow:8 loy:3
+c:rgu r:common t:spacecraft set:parl block:por pow:4 cmc:12
+c:ugr r:mythic t:sphinx set:ptkdf block:soi loy:4 cmc:2
+c:rwb r:rare t:zubera set:thb tou:6 pow:5 loy:1
+c:wrg r:mythic t:minion set:ddo tou:7 pow:1 cmc:12
+c:g r:common t:lady set:pdp13 tou:7 loy:5 cmc:11
+c:g r:common t:freyalise set:pavr pow:12 loy:1 cmc:9
+c:bu r:mythic t:artificer block:ktk tou:2 pow:8 loy:5
+c:rwb r:rare t:huatli block:ktk tou:9 pow:10 cmc:11
+c:gu r:mythic t:contraption block:som tou:2 loy:4 cmc:13
+c:wbrg r:uncommon t:walrus block:cmd pow:1 loy:2 cmc:3
+c:wurg r:rare t:caribou tou:4 pow:4 loy:9 cmc:0
+c:gub r:rare set:tfth block:rav tou:1 pow:3 loy:9
+c:wu r:common set:gdy block:ktk tou:11 pow:12 cmc:11
+c:bw r:mythic set:pl21 block:y23 tou:5 loy:2 cmc:5
+c:gub r:uncommon set:pdgm block:ons pow:13 loy:9 cmc:3
+c:rbu r:common set:jgp tou:8 pow:6 loy:2 cmc:13
+c:rgu r:uncommon block:isd tou:1 pow:12 loy:6 cmc:13
+c:rw t:gremlin set:ddh block:cmd tou:2 pow:3 loy:10
+c:rw t:soldier set:ocmd block:ala tou:3 pow:3 cmc:5
+c:wu t:arkhos set:ptdmu block:y23 tou:13 loy:2 cmc:1
+c:gu t:oko set:fclu block:lrw pow:1 loy:7 cmc:8
+c:wu t:tarkir set:mbs tou:6 pow:8 loy:10 cmc:0
+c:rgu t:ravnica block:parl tou:5 pow:3 loy:5 cmc:2
+c:wu set:pznr block:usg tou:5 pow:3 loy:3 cmc:1
+r:common t:splinter set:c14 block:y22 tou:12 pow:6 loy:10
+r:mythic t:wombat set:lcc block:rtr tou:5 pow:11 cmc:7
+r:mythic t:eldraine set:oafc block:ala tou:9 loy:8 cmc:9
+r:common t:token set:who block:otj pow:12 loy:5 cmc:6
+r:rare t:jeska set:pulg tou:13 pow:8 loy:4 cmc:4
+r:common t:swamp block:htr tou:10 pow:8 loy:8 cmc:10
+r:mythic set:ha6 block:mrd tou:9 pow:9 loy:4 cmc:0
+t:creature set:pody block:chk tou:5 pow:10 loy:7 cmc:7
+c:gu r:uncommon t:xerex set:e02 block:grn tou:2 pow:1 loy:5
+c:rgu r:uncommon t:warlock set:l12 block:rtr tou:6 pow:9 cmc:7
+c:bu r:rare t:automaton set:cmm block:ala tou:6 loy:8 cmc:6
+c:rw r:common t:djinn set:hho block:dbl pow:8 loy:10 cmc:5
+c:rwu r:uncommon t:moon set:pths tou:7 pow:7 loy:7 cmc:1
+c:gu r:common t:egg block:grn tou:7 pow:1 loy:2 cmc:1
+c:wurg r:common set:spg block:jgp tou:1 pow:6 loy:3 cmc:2
+c:rw t:ir set:dft block:akh tou:13 pow:5 loy:9 cmc:5
+r:rare t:shandalar set:tbro block:mmq tou:12 pow:13 loy:4 cmc:5
+c:ru r:common t:sorcery set:pl23 block:ody tou:13 pow:8 loy:8 cmc:2
